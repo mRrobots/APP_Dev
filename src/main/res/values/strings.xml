@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">transect</string>
+
+
+    <string-array name="numbers">
+        <item>All_Categories</item>
+        <item>Food</item>
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Vehicles</item>
+        <item>Clothing</item>
+
+    </string-array>
+    <string name="select">Select Category</string>
+</resources>
